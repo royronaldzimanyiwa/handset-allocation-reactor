@@ -57,3 +57,4 @@ dist/
 nbdist/
 .nb-gradle/
 >>>>>>> 8144f6117dd92bc6575d77763d0f849fc6f88e8f.idea
+.idea
