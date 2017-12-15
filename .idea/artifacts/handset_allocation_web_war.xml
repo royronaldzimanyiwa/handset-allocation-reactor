@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="handset-allocation-web:war">
+    <output-path>$PROJECT_DIR$/handset-allocation-web/target</output-path>
+    <root id="archive" name="handset-allocation-web.war">
+      <element id="artifact" artifact-name="handset-allocation-web:war exploded" />
+    </root>
+  </artifact>
+</component>
